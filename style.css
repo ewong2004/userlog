@@ -1,0 +1,60 @@
+body {
+  background: url(images/background.jpg) no-repeat center fixed;
+  background-size: cover;
+  margin: auto;
+  text-align: center;
+  width: 600px;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 40px;
+
+}
+
+hr {
+  width: 300px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 11px;
+}
+
+
+.main {
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: purple 2px solid;
+}
+
+.login {
+  padding-top: 10px;
+  background-color: purple;
+  color: white;
+}
+
+.forget {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.forget a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+
+.socials {
+  padding: 10px;
+}
+
+.socials img {
+  margin: 3px;
+  width: 40px;
+}
